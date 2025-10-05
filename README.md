@@ -85,8 +85,9 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meriemeloualfi&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="115" style="display:inline-block; margin-right:10px;" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meriemeloualfi&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="115" style="display:inline-block;" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meriemeloualfi&show_icons=true&theme=dracula" height="115" style="display:inline-block; margin-right:10px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriemeloualfi&layout=compact&langs_count=5&theme=dracula" height="115" style="display:inline-block;" alt="Top Languages" />
 </div>
+
 
 
