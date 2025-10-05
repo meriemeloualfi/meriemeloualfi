@@ -87,9 +87,12 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+<h3 align="left">🔥 My Stats :</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meriemeloualfi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="115" alt="languages graph" /> <br><br>
-  <img src="https://streak-stats.demolab.com?user=meriemeloualfi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meriemeloualfi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="115" style="display:inline-block; margin-right: 10px;" alt="languages graph" />
+  
+  <img src="https://streak-stats.demolab.com?user=meriemeloualfi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="115" style="display:inline-block;" alt="streak graph" />
 </div>
 
 
