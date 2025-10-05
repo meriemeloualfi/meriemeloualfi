@@ -83,8 +83,13 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meriemeloualfi&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriemeloualfi&layout=compact&theme=dark" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meriemeloualfi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="115" alt="languages graph" /> <br><br>
+  <img src="https://streak-stats.demolab.com?user=meriemeloualfi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
 
