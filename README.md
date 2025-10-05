@@ -84,5 +84,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meriemeloualfi&theme=dark&hide_border=false" height="220" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meriemeloualfi&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriemeloualfi&layout=compact&theme=dark" height="180" alt="Top Languages" />
 </div>
+
