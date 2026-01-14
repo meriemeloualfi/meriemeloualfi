@@ -79,17 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
-
-
-<h3 align="left">🔥 My Stats :</h3>
-
-<div align="center">
- [ <img src="https://github-readme-stats.vercel.app/api?username=meriemeloualfi&show_icons=true&theme=dracula" height="115" style="display:inline-block; margin-right:10px;" alt="GitHub Stats" />](https://github-readme-stats.vercel.app/api?username=meriemeloualfi&show_icons=true&theme=dracula
-)
- [ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriemeloualfi&layout=compact&langs_count=5&theme=dracula" height="115" style="display:inline-block;" alt="Top Languages" />](https://github-readme-stats.vercel.app/api/top-langs/?username=meriemeloualfi&layout=compact&langs_count=5&theme=dracula
-)
-</div>
 
 
 
