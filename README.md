@@ -118,10 +118,6 @@ I'm Meriem El Oualfi, passionate about Artificial Intelligence and Data Science.
 
 </div>
 
-<p align="left">
-Power BI • DAX • MySQL • Oracle • SQLite • Cassandra
-</p>
-
 ---
 
 <h3 align="left">💻 Programming Languages</h3>
