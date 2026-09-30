@@ -207,9 +207,6 @@ Power BI • DAX • MySQL • Oracle • SQLite • Cassandra
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n" />
 <img width="12" />
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="Power BI" />
-<img width="12" />
-
 <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="Arduino" />
 
 </div>
