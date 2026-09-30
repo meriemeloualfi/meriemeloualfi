@@ -74,10 +74,6 @@ I'm Meriem El Oualfi, passionate about Artificial Intelligence and Data Science.
 
 </div>
 
-<p align="left">
-Machine Learning • Deep Learning • NLP • Computer Vision • Transfer Learning • Time Series Forecasting
-</p>
-
 ---
 
 <h3 align="left">🤖 Generative AI & Agentic AI</h3>
@@ -99,10 +95,6 @@ Machine Learning • Deep Learning • NLP • Computer Vision • Transfer Lear
 <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI" />
 
 </div>
-
-<p align="left">
-RAG • Multi-Agent Systems • LangGraph • MCP • Prompt Engineering • LLMs • Vector Databases
-</p>
 
 ---
 
@@ -210,7 +202,3 @@ Power BI • DAX • MySQL • Oracle • SQLite • Cassandra
 <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="Arduino" />
 
 </div>
-
-<p align="left">
-Git • GitHub • Figma • Power BI • n8n • Arduino • Scrum / Agile
-</p>
